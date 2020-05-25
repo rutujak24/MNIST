@@ -54,3 +54,7 @@ print('Test accuracy:', score[1])
 model.save('mnist.h5')
 print("Saving the model as mnist.h5")
 
+
+
+/*Main Reference: https://data-flair.training/blogs/python-deep-learning-project-handwritten-digit-recognition/
+  Another Reference: https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-from-scratch-for-mnist-handwritten-digit-classification/*/
